@@ -37,5 +37,5 @@ d'applications web performantes.
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2VlbmNxdjZ3cGV3NnAzaXh0OWJlMGswbDM0Njc1d201aGEzanNlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 <br><br><br><br><br>
 <hr width="60%" >
-<br>
+<br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Liantsoamiarina&label=Profile%20views&color=0e75b6&style=flat" alt="Liantsoamiarina" /> </p>
