@@ -12,7 +12,7 @@ d'applications web performantes.
 
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Stack de Développement</h3>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
@@ -23,7 +23,7 @@ d'applications web performantes.
 
 <hr width="36%" >
 
-<h3>My GitHub Stats</h3>
+<h3>📊 Mes Stats Dev</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
