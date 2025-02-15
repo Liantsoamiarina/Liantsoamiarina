@@ -21,7 +21,7 @@ d'applications web performantes.
 </a></p><br>
 
 
-<hr width="36%" >
+<hr width="50%" >
 
 <h3>📊 Mes Stats Dev</h3>
 
