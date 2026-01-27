@@ -32,7 +32,7 @@ d'applications web performantes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liantsoamiarina&show_icons=true&theme=dark&locale=en&layout=compact" alt="liantsoamiarina" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://camo.githubusercontent.com/396cafa4892b72c14ca817926f6382252aeb941281eca881bf108952d773a039/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4c69616e74736f616d696172696e612673686f775f69636f6e733d74727565267468656d653d7261646963616c"/></p>
+<p>&nbsp;
 
 
 <br><br><br><br><br><br><br><br><br>
