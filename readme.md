@@ -3,7 +3,6 @@
 
 
 
-
 👨‍💻 Développeur Full-Stack Web | Passionné par le développement 
 d'applications web performantes.
 
@@ -31,11 +30,4 @@ d'applications web performantes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liantsoamiarina&show_icons=true&theme=dark&locale=en&layout=compact" alt="liantsoamiarina" /></p>
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;
-
-
-<br><br><br><br><br><br><br><br><br>
-<hr width="70%" >
-<br><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Liantsoamiarina&label=Profile%20views&color=0e75b6&style=flat" alt="Liantsoamiarina" /> </p>
+<p align="top"> <img src="https://komarev.com/ghpvc/?username=Liantsoamiarina&label=Profile%20views&color=0e75b6&style=flat" alt="Liantsoamiarina" /> </p>
