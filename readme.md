@@ -53,4 +53,7 @@ Je privilégie la clarté du code, la performance et une expérience utilisateur
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://github.com/Liantsoamiarina/Liantsoamiarina/blob/main/Snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
