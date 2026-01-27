@@ -1,10 +1,8 @@
 <h1 align="center">Bonjour 👋, Je suis Liantsoa Miarina</h1>
 
+<h2 align="center">👨‍💻 Développeur Full-Stack Web | Passionné par le développement 
+d'applications web performantes.</h2>
 
-
-
-👨‍💻 Développeur Full-Stack Web | Passionné par le développement 
-d'applications web performantes.
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -18,7 +16,7 @@ d'applications web performantes.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </a></p><br>
 
-
+<p align="top"> <img src="https://komarev.com/ghpvc/?username=Liantsoamiarina&label=Profile%20views&color=0e75b6&style=flat" alt="Liantsoamiarina" /> </p>
 <hr width="70%" >
 
 <h3>📊 Mes Stats Dev</h3>
@@ -30,4 +28,4 @@ d'applications web performantes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Liantsoamiarina&show_icons=true&theme=dark&locale=en&layout=compact" alt="liantsoamiarina" /></p>
 
-<p align="top"> <img src="https://komarev.com/ghpvc/?username=Liantsoamiarina&label=Profile%20views&color=0e75b6&style=flat" alt="Liantsoamiarina" /> </p>
+
