@@ -20,7 +20,7 @@ src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/maste
 
 ### 🚀 À propos
 
-Développeur full-stack orienté web moderne.  
+Développeur full-stack web junior.  
 Je privilégie la clarté du code, la performance et une expérience utilisateur soignée.
 
 ---
