@@ -28,7 +28,7 @@ Développeur web full-stack junior, spécialisé dans la création d’applicati
 ### 💻 Stack de Développement
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,sass,tailwind,bootstrap,mysql,git,linux,windows,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,sass,tailwind,bootstrap,jquery,mysql,git,postman,vercel,figma" />
 </p>
 
 
