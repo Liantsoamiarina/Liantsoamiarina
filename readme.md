@@ -36,13 +36,13 @@ Développeur web full-stack junior, spécialisé dans la création d’applicati
 ### 🔗 Me contacter
 
 <p align="center">
-  <a href="[https://www.facebook.com/TON_PROFIL](https://www.facebook.com/liantsoa.miarina)" target="_blank">
+  <a href="https://www.facebook.com/liantsoa.miarina" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="liantsoamiarina14@gmail.com">
+  <a href="mailto:liantsoamiarina@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://www.linkedin.com/in/TON_PROFIL](https://www.linkedin.com/in/liantsoa-miarina-092391327/)" target="_blank">
+  <a href="https://www.linkedin.com/in/liantsoa-miarina" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
