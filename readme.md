@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  👨‍💻 Développeur Full-Stack Web Junior <br/>
+   Développeur Full-Stack Web Junior <br/>
   <i>Applications web modernes, propres et performantes</i>
 </h3>
 
