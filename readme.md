@@ -28,7 +28,7 @@ Développeur web full-stack junior, spécialisé dans la création d’applicati
 ### 💻 Stack de Développement
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,sass,tailwind,bootstrap,mysql,firebase,mongodb,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,express,tailwind,mysql,firebase,mongodb,git,postman,figma" />
 </p>
 
 
@@ -64,7 +64,7 @@ Développeur web full-stack junior, spécialisé dans la création d’applicati
     </td>
   </tr>
 </table>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Liantsoamiarina/Liantsoamiarina/blob/main/Snake.svg" alt="GitHub Contribution Snake" />
-</p>
+</p> -->
 
