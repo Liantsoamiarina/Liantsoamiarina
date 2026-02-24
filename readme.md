@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&width=520&lines=Laravel+%7C+PHP+%7C+MySQL;React+%26+Frontend+Moderne;Code+clair+%7C+UI+propre" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&width=550&lines=Laravel+%7C+PHP+%7C+MySQL;MERN+Stack+(MongoDB,+Express,+React,+Node);Code+clair+%7C+UI+propre" />
 </p>
 
 <br/>
