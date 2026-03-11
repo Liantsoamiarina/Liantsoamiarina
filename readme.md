@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   Bonjour 👋, je suis <span style="color:#38bdf8;">Liantsoa Miarina</span>
 </h1>
 
