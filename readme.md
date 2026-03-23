@@ -1,5 +1,5 @@
 <h1 align="center">
-  Bonjour 👋, je suis <span style="color:#38bdf8;">Liantsoa Miarina</span>
+  Bonjour 👋, je suis <span style="color:#38bdf8;">Liantsoa Miarina </span>
 </h1>
 
 <h3 align="center">
