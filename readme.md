@@ -2,7 +2,7 @@
   Bonjour 👋, je suis <span style="color:#38bdf8;">Liantsoa Miarina</span>
 </h1>
 
-<h3 align="center">
+<h3 align="left">
    Développeur Full-Stack Web Junior <br/>
   <i>Applications web modernes, propres et performantes</i>
 </h3>
