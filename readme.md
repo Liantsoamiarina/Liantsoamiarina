@@ -1,13 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=180&section=header&text=Liantsoa%20Miarina&fontSize=60" />
-</p>
 
-<h3 align="center">Développeur Full-Stack Web Junior</h3>
-<p align="center">Passionné par la création d'applications web avec Laravel et la stack MERN.</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&width=500&lines=Développeur+Laravel+%2F+PHP;Stack+MERN+(MongoDB,+Express,+React,+Node);Applications+propres+et+fonctionnelles" />
-</p>
 
 ---
 
