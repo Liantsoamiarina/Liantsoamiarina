@@ -46,17 +46,3 @@ Je développe des applications web en me concentrant sur la clarté du code et l
 
 ---
 
-### 🔗 Me contacter
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/liantsoa-miarina" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/liantsoa.miarina" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38bdf8&height=80&section=footer" />
-</p>
