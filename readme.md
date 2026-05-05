@@ -19,7 +19,7 @@ Je développe des applications web en me concentrant sur la clarté du code et l
 - 🛠️ Utilise également **Electron** pour le desktop et **Tailwind CSS** pour le design.
 - 📍 Basé à Madagascar.
 
----
+
 
 ### 💻 Stack Technique
 
