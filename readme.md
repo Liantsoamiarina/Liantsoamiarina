@@ -27,7 +27,7 @@ Je développe des applications web en me concentrant sur la clarté du code et l
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,express,mongodb,mysql,tailwind,electron,git&perline=7" />
 </p>
 
----
+
 
 ### 📊 Activité GitHub
 
