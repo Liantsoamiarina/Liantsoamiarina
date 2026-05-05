@@ -44,7 +44,7 @@ Je développe des applications web en me concentrant sur la clarté du code et l
   </table>
 </div>
 
----
+
 ### 🔗 Me contacter
 
 <p align="center">
