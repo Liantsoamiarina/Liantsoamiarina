@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&width=500&lines=Développeur+Laravel+%2F+PHP;Stack+MERN+(MongoDB,+Express,+React,+Node);Applications+propres+et+fonctionnelles" />
 </p>
----
+
 
 ### 🚀 En bref
 
