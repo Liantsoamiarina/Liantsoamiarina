@@ -11,13 +11,7 @@
 </p>
 
 
-### 🚀 En bref
 
-Je développe des applications web en me concentrant sur la clarté du code et l'efficacité technique. Toujours en train d'apprendre et de construire de nouveaux projets.
-
-- 💻 Principalement sur **Laravel** et **React**.
-- 🛠️ Utilise également **Electron** pour le desktop et **Tailwind CSS** pour le design.
-- 📍 Basé à Madagascar.
 
 
 ### 💻 Stack Technique
