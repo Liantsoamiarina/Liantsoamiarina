@@ -10,7 +10,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&width=500&lines=Développeur+Laravel+%2F+PHP;Stack+MERN+(MongoDB,+Express,+React,+Node);Applications+propres+et+fonctionnelles" />
 </p>
 
+### 🚀 En bref
 
+Je développe des applications web en me concentrant sur la clarté du code et l'efficacité technique. Toujours en train d'apprendre et de construire de nouveaux projets.
+
+- 💻 Principalement sur **Laravel** et **React**.
+- 🛠️ Utilise également **Electron** pour le desktop et **Tailwind CSS** pour le design.
+- 📍 Basé à Madagascar.
 
 
 
